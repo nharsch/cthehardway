@@ -38,3 +38,8 @@ string or array of chars 'char[]' is declared with double quotes
 
 sizeof returns byte length
 
+# ex10
+
+    for(INITIALIZER; TEST; INCREMENTER) {
+      CODE;
+    }
