@@ -1,8 +1,10 @@
 CFLAGS=-Wall -g
 
+CLEAN_FILES := ex1 ex3 ex4 ex5 ex6 ex7 ex8 ex9
+
 clean:
-	rm -f ex1 ex3 ex4
+	rm -f $(CLEAN_FILES)
 
 all:
-	make ex1 ex3 ex4
+	make $(CLEAN_FILES) 
 

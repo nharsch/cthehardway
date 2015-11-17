@@ -32,4 +32,9 @@ char is declared with single quote
 
 string or array of chars 'char[]' is declared with double quotes
 
+# Ex 7
+
+# Ex 8
+
+sizeof returns byte length
 
