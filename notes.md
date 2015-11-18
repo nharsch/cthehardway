@@ -43,3 +43,9 @@ sizeof returns byte length
     for(INITIALIZER; TEST; INCREMENTER) {
       CODE;
     }
+
+# ex11
+
+not really a bool type in c
+
+while loops
